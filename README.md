@@ -9,6 +9,5 @@ I am a PhD student in Civil and Environmental Engineering Department at UConn, f
 * **Explainable AI** using SHAP values and permutation importance
 * **Reproducible ML Pipelines** with Scikit-Learn and Cloud Providers
 * **Generative AI** & Text Analytics for data processing
-
 ---
 *Fun Fact: I'm currently researching how to model microtransit accessibility as waves! 🌊*
