@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there, I'm Md. Anwar Uddin (OPIM5512-mjb24001) 👋
 
-<!--
-**OPIM5512-mjb24001/OPIM5512-mjb24001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a PhD student in Civil and Environmental Engineering Department at UConn, focusing on transportation and urban engineering. I'm currently expanding my technical skills to apply data science to my engineering research.
 
-Here are some ideas to get you started:
+**Program / Course:** PhD in Civil Engineering @ UConn | OPIM 5512 (Data Science Using Python)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Skills I'm learning this semester:**
+* **Time Series Modeling** (Forecasting, Anomaly Detection, & Clustering)
+* **Explainable AI** using SHAP values and permutation importance
+* **Reproducible ML Pipelines** with Scikit-Learn and Cloud Providers
+* **Generative AI** & Text Analytics for data processing
+
+---
+*Fun Fact: I'm currently researching how to model microtransit accessibility as waves! 🌊*
