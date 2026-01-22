@@ -4,7 +4,7 @@ I am a PhD student in Civil and Environmental Engineering Department at UConn, f
 
 **Program / Course:** PhD in Civil Engineering @ UConn | OPIM 5512 (Data Science Using Python)
 
-**Skills I'm learning this semester:**
+**Skills I'm learning this semester from OPIM 5512 course:**
 * **Time Series Modeling** (Forecasting, Anomaly Detection, & Clustering)
 * **Explainable AI** using SHAP values and permutation importance
 * **Reproducible ML Pipelines** with Scikit-Learn and Cloud Providers
